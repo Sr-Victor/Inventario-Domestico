@@ -39,27 +39,3 @@ Módulo de Interface de Linha de Comando
 Gerencia a interface com o usuário.
 Exibe menus e recebe entradas.
 Diagrama de Componentes
-plaintext
-Copiar código
-
-```plaitext
-+--------------------+
-| Módulo Principal   |
-+--------------------+
-           |
-           v
-+--------------------+
-| Módulo de Interface|
-| de Linha de Comando|
-+--------------------+
-           |
-           v
-+--------------------+
-|   Módulo de Itens  |
-+--------------------+
-           |
-           v
-+--------------------+
-|   Módulo de Dados  |
-+--------------------+
-```
