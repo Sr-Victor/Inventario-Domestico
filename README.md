@@ -41,6 +41,8 @@ Exibe menus e recebe entradas.
 Diagrama de Componentes
 plaintext
 Copiar código
+
+```plaitext
 +--------------------+
 | Módulo Principal   |
 +--------------------+
@@ -60,3 +62,4 @@ Copiar código
 +--------------------+
 |   Módulo de Dados  |
 +--------------------+
+```
